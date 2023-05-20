@@ -1,3 +1,5 @@
-export const Page = () => {
-  return <div>task form</div>
+const Page = () => {
+  return <div>new form</div>
 }
+
+export default Page
